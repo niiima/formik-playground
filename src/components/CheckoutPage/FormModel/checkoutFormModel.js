@@ -30,7 +30,7 @@ export default {
     },
     rate: {
       name: "rate",
-      label: "3. How would you rate your smile?*",
+      label: "3. How would you rate your Web-Stack knowledge?*",
       requiredErrorMsg: "You should tell us about it",
       type: "radio",
       data: (() =>
