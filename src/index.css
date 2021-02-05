@@ -1,0 +1,20 @@
+:root {
+  --main-bg-color: #eee;
+  --main-color: rgba(0, 0, 0, 0.54);
+  /* //#282c34;; */
+  --main-link-color: #61dafb;
+  --error-color: Red;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Noto Sans KR", "Segoe UI",
+    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
